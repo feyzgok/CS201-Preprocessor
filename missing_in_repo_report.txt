@@ -1,0 +1,9 @@
+ExamRepositoryTest'te bulunup ExamRepository'de (train/test) OLMAYAN dosyalar
+Kaynak : /Users/feyzagok/IdeaProjects/ExamRepositoryTest
+Hedef  : /Users/feyzagok/Documents/GitHub/ExamRepository
+Toplam eksik: 4
+============================================================
+/Users/feyzagok/IdeaProjects/ExamRepositoryTest/accumulate/S018062.txt
+/Users/feyzagok/IdeaProjects/ExamRepositoryTest/checkString/S028467.txt
+/Users/feyzagok/IdeaProjects/ExamRepositoryTest/checkString/S031324.txt
+/Users/feyzagok/IdeaProjects/ExamRepositoryTest/dequeue-array/S034088.txt

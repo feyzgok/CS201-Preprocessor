@@ -1,0 +1,5 @@
+--- Assessment -> Train Results ---
+All assessment files are mapped exactly 1-to-1 in train folders.
+
+--- Nonassessment -> Test Results ---
+All nonassessment files are mapped exactly 1-to-1 in test folders.
